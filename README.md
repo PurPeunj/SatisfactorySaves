@@ -6,5 +6,5 @@
 
 +Play
 
-+When the session is finish DONT FOGET to push the new file !
++When the session is finish DONT FORGET to push the new file !
 
